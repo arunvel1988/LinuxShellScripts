@@ -1,0 +1,3 @@
+hi this is append command
+Hi this is the second attemt to execute and append
+another new line

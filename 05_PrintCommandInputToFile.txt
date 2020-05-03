@@ -1,0 +1,2 @@
+Hi this is command line input redirecting into a file
+We are using cat command to print this message into file
